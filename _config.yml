@@ -1,6 +1,13 @@
-title: Minimal theme
+title:<p align="centre"> Prem Kumar Mishra <\p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<p align="centre">
+<a href="pdf/resume.pdf">resume <\a>
+
+<br>
+I ma working as Mechanical engineer in OMC gandhamardan ironore mines ,keonjhar
+with having 4 years of working experience in maintaining heavy machiniries and in purchasing.
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
