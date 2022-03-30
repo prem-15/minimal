@@ -10,15 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# working experience 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> Working as mechanical engineer in gandhamardan ironore mines (OMC)  keonjhar , from oct 2018 to till date.
+> my jobs and responsibilites are maintaining shifts as shift inchrge , attending running and major breakdowns ,service planning of all heavy earth moovings 
+  equipments , digital gensets , light sources etc.
+> planning and odering spares for preventive maintances and moonson repairs.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## working experience 2
+
+> Worked as Jr.manager purchase in kalinga commercial corporation ltd.(KCCL)  bbsr , handling putulpani ironore mines from jan 2018 to sept 2018,
+> Major role is to purchasing of spare parts as per purchase requests provided by sites , understanting its avalibality and urgent spare requirment at site and           arranging them locally or inter site purchases from respective vendors .
+> comparing the quotations of different vendors and parties and giving purchase orders as per minimal rates of spares.
+> Arranging payments of parties and providing spares as soon as possible for the site requirements.
+  
 
 ### Header 3
 
